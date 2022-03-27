@@ -6029,11 +6029,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1.csproj",
+      "projectUniqueName": "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1.csproj",
       "projectName": "ApiTemplate1",
-      "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1.csproj",
+      "projectPath": "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1.csproj",
       "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1\\obj\\",
+      "outputPath": "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\ApiTemplate1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6056,17 +6056,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\ApiModels\\ApiModels.csproj": {
-              "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\ApiModels\\ApiModels.csproj"
+            "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\ApiModels\\ApiModels.csproj": {
+              "projectPath": "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\ApiModels\\ApiModels.csproj"
             },
-            "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\IdentityService\\IdentityService.csproj": {
-              "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\IdentityService\\IdentityService.csproj"
+            "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\IdentityService\\IdentityService.csproj": {
+              "projectPath": "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\IdentityService\\IdentityService.csproj"
             },
-            "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\UserData\\ApiData.csproj": {
-              "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\UserData\\ApiData.csproj"
+            "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\UserData\\ApiData.csproj": {
+              "projectPath": "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\UserData\\ApiData.csproj"
             },
-            "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\UserService\\UserService.csproj": {
-              "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\UserService\\UserService.csproj"
+            "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\UserService\\UserService.csproj": {
+              "projectPath": "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\UserService\\UserService.csproj"
             }
           }
         }

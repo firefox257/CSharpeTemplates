@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5nC7HAJgjwjZxeRba0momsvAbLktpw21OZkVBqpgXCV+i1Cqc/fzZ8QJ0EOq6mG+z5nNOV4+BkcPa2+wf7LHig==",
+  "dgSpecHash": "B8YBxu1EjnvAQpkoIsV2d7QH9q/q/k6OKy8Wc8cSaAiGd1NvVzrGMljx9a6xywFI+/mcjYJc86976r/fE93Lhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\Exceptions\\Exceptions.csproj",
+  "projectFilePath": "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\Exceptions\\Exceptions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

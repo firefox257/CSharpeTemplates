@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\DbModels\\DbModels.csproj",
+      "projectUniqueName": "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\DbModels\\DbModels.csproj",
       "projectName": "DbModels",
-      "projectPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\DbModels\\DbModels.csproj",
+      "projectPath": "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\DbModels\\DbModels.csproj",
       "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\DbModels\\obj\\",
+      "outputPath": "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\DbModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

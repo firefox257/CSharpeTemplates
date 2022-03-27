@@ -40,7 +40,9 @@ namespace ApiTemplate1.Authorization
                 if(StringValues.IsNullOrEmpty(token))
 				{
                     filterContext.Result = MakeUnauthorizedObjectResult();
+                    return;
                 }
+
                 var refresh =await IdentityService.RefreshToken(new RefreshIdentityTokenRequest
                 {
                     Token = new Guid(token)
@@ -48,6 +50,7 @@ namespace ApiTemplate1.Authorization
                 if(!refresh.Status.IsSuccess)
 				{
                     filterContext.Result = MakeUnauthorizedObjectResult();
+                    return;
                 }
                 filterContext.HttpContext.Response.Headers.Add("authToken", refresh.Data.Token.ToString());
                 filterContext.HttpContext.Response.Headers.Add("authTokenTimeStamp", refresh.Data.TimeStamp.ToString());
@@ -62,6 +65,7 @@ namespace ApiTemplate1.Authorization
             var status = new ResponseStatus
             {
                 StatusCode = ResponseStatusCode.Unauthorized,
+                ExceptionErrors = new List<string>()
 
             };
             status.ExceptionErrors.Add("Unauthorized");

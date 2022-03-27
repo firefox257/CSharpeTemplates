@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q8Rip4GljAmxqSDrJZMwte0hnXhWPQktreG11lTPSqExWGwa+I8Y/nqISUSfx6QVphY552IfDC6cDWRxtb7Wxg==",
+  "dgSpecHash": "syDQCXoHt3FBCoUikohv4xm5j2N3DpUCGQroi9BM2B3AZC9EKjlg2cS0Mw9xju9hwXDHputl/VYz5rmHWn3pbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\IdentityService\\IdentityService.csproj",
+  "projectFilePath": "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\IdentityService\\IdentityService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aaron\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.23\\microsoft.aspnetcore.cryptography.internal.3.1.23.nupkg.sha512",

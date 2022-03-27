@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VperGEG/7H+TarFEVM9DMQEPtAoOnddLQYCpzpUfG5z+/RsQq2TMbsQqNjnsMBkM6W4mJlZP/0Zh2WHHE6RDGQ==",
+  "dgSpecHash": "5DYMuCVk5Ra+q+4bXb/pvi4Fgab9yyboLCL5aVIpSCP2+wCzL6VLHxUB6F/cjtdivkOxsWDm8kVQ+GgjEuCgTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aaron\\progs\\csharptemplates\\ApiTemplate1\\ApiTemplate1\\ApiModels\\ApiModels.csproj",
+  "projectFilePath": "C:\\myprogs\\take3\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\ApiModels\\ApiModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
