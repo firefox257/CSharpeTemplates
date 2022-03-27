@@ -1,0 +1,17 @@
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\bin\Debug\netcoreapp3.1\IdentityService.deps.json
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\bin\Debug\netcoreapp3.1\IdentityService.dll
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\bin\Debug\netcoreapp3.1\IdentityService.pdb
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\bin\Debug\netcoreapp3.1\ApiModels.dll
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\bin\Debug\netcoreapp3.1\DbModels.dll
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\bin\Debug\netcoreapp3.1\ApiModels.pdb
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\bin\Debug\netcoreapp3.1\DbModels.pdb
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\obj\Debug\netcoreapp3.1\IdentityService.csproj.AssemblyReference.cache
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\obj\Debug\netcoreapp3.1\IdentityService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\obj\Debug\netcoreapp3.1\IdentityService.AssemblyInfoInputs.cache
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\obj\Debug\netcoreapp3.1\IdentityService.AssemblyInfo.cs
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\obj\Debug\netcoreapp3.1\IdentityService.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\obj\Debug\netcoreapp3.1\IdentityService.dll
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\obj\Debug\netcoreapp3.1\IdentityService.pdb
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\bin\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\bin\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityService\obj\Debug\netcoreapp3.1\IdentityService.csproj.CopyComplete

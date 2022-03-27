@@ -1,0 +1,5 @@
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityDatabase\bin\Debug\IdentityDatabase.dacpac
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityDatabase\bin\Debug\IdentityDatabase.dll
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityDatabase\bin\Debug\IdentityDatabase.pdb
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityDatabase\obj\Debug\IdentityDatabase.dll
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\IdentityDatabase\obj\Debug\IdentityDatabase.pdb

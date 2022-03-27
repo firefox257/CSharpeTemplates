@@ -1,0 +1,14 @@
+C:\Users\Aaron\source\repos\ApiTemplate1\UserDatabase\bin\Debug\UserDatabase.dacpac
+C:\Users\Aaron\source\repos\ApiTemplate1\UserDatabase\bin\Debug\UserDatabase.dll
+C:\Users\Aaron\source\repos\ApiTemplate1\UserDatabase\bin\Debug\UserDatabase.pdb
+C:\Users\Aaron\source\repos\ApiTemplate1\UserDatabase\obj\Debug\UserDatabase.dll
+C:\Users\Aaron\source\repos\ApiTemplate1\UserDatabase\obj\Debug\UserDatabase.pdb
+C:\Users\Aaron\source\repos\ApiTemplate1\UserDatabase\obj\Debug\Model.xml
+C:\Users\Aaron\source\repos\ApiTemplate1\UserDatabase\obj\Debug\refactor.xml
+C:\Users\Aaron\source\repos\ApiTemplate1\UserDatabase\obj\Debug\postdeploy.sql
+C:\Users\Aaron\source\repos\ApiTemplate1\UserDatabase\obj\Debug\predeploy.sql
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\UserDatabase\bin\Debug\UserDatabase.dacpac
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\UserDatabase\bin\Debug\UserDatabase.dll
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\UserDatabase\bin\Debug\UserDatabase.pdb
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\UserDatabase\obj\Debug\UserDatabase.dll
+C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\UserDatabase\obj\Debug\UserDatabase.pdb
