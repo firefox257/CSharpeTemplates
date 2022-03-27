@@ -1,0 +1,35 @@
+version: '3.7'
+
+volumes:
+  data-volume:
+
+services:
+  rabbitmq:
+    image: rabbitmq
+    container_name: mts-rabbitmq
+    hostname: mts-rabbitmq
+    stdin_open: true
+    tty: true
+    expose:
+      - 5671
+      - 5672
+      - 15672
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: mssql
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_PID=Express 
+      - SA_PASSWORD=P@ssw3rd # 
+    ports:
+      - 1433:1433
+    volumes:
+      - .\Api\Data\mssql:/var/opt/mssql/data
+
+ 
+
+networks:
+  default:
+    external:
+      name: nat
