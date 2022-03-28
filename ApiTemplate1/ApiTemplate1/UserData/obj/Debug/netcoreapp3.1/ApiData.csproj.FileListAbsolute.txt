@@ -29,3 +29,4 @@ C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserData\obj\Debug\n
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserData\obj\Debug\netcoreapp3.1\ApiData.dll
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserData\obj\Debug\netcoreapp3.1\ApiData.pdb
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserData\obj\Debug\netcoreapp3.1\ApiData.genruntimeconfig.cache
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserData\obj\Debug\netcoreapp3.1\ApiData.csproj.CopyComplete

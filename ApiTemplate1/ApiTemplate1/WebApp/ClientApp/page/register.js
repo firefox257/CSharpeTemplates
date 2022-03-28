@@ -1,4 +1,9 @@
-﻿var css = `
+﻿
+
+import { AddUserProfile } from "../services/userservice.js";
+
+
+var css = `
 .register
 {
 	position: absolute;
@@ -19,6 +24,7 @@
 }
 `;
 var html = `
+<c tt="page" to="page">
 	<span class="register">
 		<table>
 			<tr>
@@ -31,7 +37,7 @@ var html = `
 					First Name:
 				</td>
 				<td>
-					<input type="text" tke="onchange" tr="user.FirstName:value"></input>
+					<input type="text" tke="onchange" tr="user.firstName:value"></input>
 				</td>
 			</tr>
 			<tr>
@@ -39,7 +45,7 @@ var html = `
 					Last Name:
 				</td>
 				<td>
-					<input type="text" tke="onchange" tr="user.LastName:value"></input>
+					<input type="text" tke="onchange" tr="user.lastName:value"></input>
 				</td>
 			</tr>
 			<tr>
@@ -47,7 +53,7 @@ var html = `
 					Email:
 				</td>
 				<td>
-					<input type="text" tke="onchange" tr="user.Email:value"></input>
+					<input type="text" tke="onchange" tr="user.email:value"></input>
 				</td>
 			</tr>
 			<tr>
@@ -55,45 +61,61 @@ var html = `
 					Password:
 				</td>
 				<td>
-					<input type="password" tke="onchange" tr="user.PasswordHash:value"></input>
+					<input type="password" tke="onchange" tr="user.passwordHash:value"></input>
 				</td>
 			</tr>
 			<tr>
 				<td >
 					<c tt="button" te="create:onclick">Create</c>
 				</td>
+				<td align="right">
+					<c tt="linkButton" te="gotoLogin:onclick">Login</c>
+				</td>
 			</tr>
 		</table>
 	</span>
+</c>
 `;
 
-var countId = 0;
 function o() {
 	var at =
 	{
 		attr:
 		{
 			get show() {
-				return at.display != "none";
-			}
+				return at.page.show;
+			},
 			set show(v) {
-				
+				at.page.show = v;
 			}
 		},
-		id: countId++,
-		display: "none",
+		page: undefined,
 		user: {
-			FirstName: "",
-			LastName: "",
-			Email: "",
-			PasswordHash: ""
+			firstName: "",
+			lastName: "",
+			email: "",
+			passwordHash: ""
 		},
 		create() {
 			console.log("user");
 			console.log(at.user);
+			AddUserProfile(at.user)
+				.then(d => {
+					console.log("here1");
+					console.log(d);
+				})
+				.catch(s => {
+					console.log("here2");
+					console.log(s);
+				});
+		},
+		gotoLogin() {
+			$.msgc.send("show login");
 		},
 		beforeinit() {
-			$.msgc.subscribe()
+			$.msgc.subscribe("show register", function () {
+				at.attr.show = 1;
+			});
 		},
 		init() {
 

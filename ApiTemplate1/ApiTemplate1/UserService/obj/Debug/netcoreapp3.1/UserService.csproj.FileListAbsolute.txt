@@ -50,3 +50,4 @@ C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserService\obj\Debu
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserService\obj\Debug\netcoreapp3.1\UserService.csproj.CoreCompileInputs.cache
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserService\obj\Debug\netcoreapp3.1\UserService.dll
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserService\obj\Debug\netcoreapp3.1\UserService.pdb
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserService\obj\Debug\netcoreapp3.1\UserService.csproj.CopyComplete

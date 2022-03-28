@@ -10,5 +10,6 @@ namespace ApiModels
 		public bool IsSuccess = true;
 
 		public List<string> ExceptionErrors { get; set; }
+		public string Message { get; set; }
 	}
 }

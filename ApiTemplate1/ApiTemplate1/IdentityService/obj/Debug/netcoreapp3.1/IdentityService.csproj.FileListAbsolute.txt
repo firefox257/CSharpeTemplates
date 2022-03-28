@@ -31,3 +31,4 @@ C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\IdentityService\obj\
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\IdentityService\obj\Debug\netcoreapp3.1\IdentityService.csproj.CoreCompileInputs.cache
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\IdentityService\obj\Debug\netcoreapp3.1\IdentityService.dll
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\IdentityService\obj\Debug\netcoreapp3.1\IdentityService.pdb
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\IdentityService\obj\Debug\netcoreapp3.1\IdentityService.csproj.CopyComplete

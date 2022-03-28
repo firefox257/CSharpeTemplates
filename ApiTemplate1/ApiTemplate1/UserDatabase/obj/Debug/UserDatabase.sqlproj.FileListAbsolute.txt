@@ -15,6 +15,9 @@ C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\UserDatabase\obj\
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserDatabase\bin\Debug\UserDatabase.dacpac
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserDatabase\bin\Debug\UserDatabase.dll
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserDatabase\bin\Debug\UserDatabase.pdb
-C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserDatabase\obj\Debug\UserDatabase.sqlproj.AssemblyReference.cache
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserDatabase\obj\Debug\UserDatabase.dll
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserDatabase\obj\Debug\UserDatabase.pdb
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserDatabase\obj\Debug\Model.xml
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserDatabase\obj\Debug\refactor.xml
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserDatabase\obj\Debug\postdeploy.sql
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\UserDatabase\obj\Debug\predeploy.sql

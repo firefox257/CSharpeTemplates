@@ -90,6 +90,10 @@ namespace ApiTemplate1
 				});
 			}
 
+			app.UseCors(builder => builder
+				.AllowAnyOrigin()
+				.AllowAnyMethod()
+				.AllowAnyHeader());
 
 			app.UseHttpsRedirection();
 

@@ -240,3 +240,4 @@ C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\ApiTemplate1\obj\Deb
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\ApiTemplate1\obj\Debug\netcoreapp3.1\ApiTemplate1.dll
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\ApiTemplate1\obj\Debug\netcoreapp3.1\ApiTemplate1.pdb
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\ApiTemplate1\obj\Debug\netcoreapp3.1\ApiTemplate1.genruntimeconfig.cache
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\ApiTemplate1\obj\Debug\netcoreapp3.1\ApiTemplate1.csproj.CopyComplete

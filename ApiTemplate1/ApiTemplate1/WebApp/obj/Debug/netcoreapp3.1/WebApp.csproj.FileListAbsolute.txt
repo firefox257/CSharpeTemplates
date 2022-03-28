@@ -1,5 +1,3 @@
-C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json

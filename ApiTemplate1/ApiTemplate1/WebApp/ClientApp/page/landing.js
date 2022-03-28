@@ -2,8 +2,8 @@
 `;
 var html = `
 
-<c tt="register"></c>
-
+<c tt="register" to="registerPage"></c>
+<c tt="login" to="loginPage"></c>
 
 <c tt="modals"></c>
 `;
@@ -15,8 +15,12 @@ function o() {
 		{
 
 		},
+		registerPage: undefined,
+		loginPage: undefined,
 		init()
 		{
+			
+			at.registerPage.show = 1;
 
 		}
 	};

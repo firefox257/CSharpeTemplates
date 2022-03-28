@@ -29,7 +29,8 @@ namespace ApiModels.Extentions
 				{
 					StatusCode = code,
 					IsSuccess = false,
-					ExceptionErrors = errorlist
+					ExceptionErrors = errorlist,
+					Message = ex.Message
 				}
 			};
 		}
