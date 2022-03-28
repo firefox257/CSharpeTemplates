@@ -32,29 +32,36 @@ namespace ApiTemplate1.Authorization
             bool hasAllowAnonymous = filterContext.ActionDescriptor.EndpointMetadata
                                  .Any(em => em.GetType() == typeof(IdentityAnonymous));
 
-            if(!hasAllowAnonymous)
-			{
-                IdentityService = filterContext.HttpContext.RequestServices.GetService<IIdentityService>();
-                var token = filterContext.HttpContext.Request.Headers["authToken"];
-
-                if(StringValues.IsNullOrEmpty(token))
-				{
-                    filterContext.Result = MakeUnauthorizedObjectResult();
-                    return;
-                }
-
-                var refresh =await IdentityService.RefreshToken(new RefreshIdentityTokenRequest
+            if (!hasAllowAnonymous)
+            {
+                try
                 {
-                    Token = new Guid(token)
-                }); 
-                if(!refresh.Status.IsSuccess)
+                    IdentityService = filterContext.HttpContext.RequestServices.GetService<IIdentityService>();
+                    var token = filterContext.HttpContext.Request.Headers["authToken"];
+
+                    if (StringValues.IsNullOrEmpty(token))
+                    {
+                        filterContext.Result = MakeUnauthorizedObjectResult();
+                        return;
+                    }
+
+                    var refresh = await IdentityService.RefreshToken(new RefreshIdentityTokenRequest
+                    {
+                        Token = new Guid(token)
+                    });
+                    if (!refresh.Status.IsSuccess)
+                    {
+                        filterContext.Result = MakeUnauthorizedObjectResult();
+                        return;
+                    }
+                    filterContext.HttpContext.Response.Headers.Add("authToken", refresh.Data.Token.ToString());
+                    filterContext.HttpContext.Response.Headers.Add("authTokenTimeStamp", refresh.Data.TimeStamp.ToString());
+                }
+                catch(Exception ex)
 				{
                     filterContext.Result = MakeUnauthorizedObjectResult();
                     return;
                 }
-                filterContext.HttpContext.Response.Headers.Add("authToken", refresh.Data.Token.ToString());
-                filterContext.HttpContext.Response.Headers.Add("authTokenTimeStamp", refresh.Data.TimeStamp.ToString());
-
             }
 
         }
@@ -65,7 +72,8 @@ namespace ApiTemplate1.Authorization
             var status = new ResponseStatus
             {
                 StatusCode = ResponseStatusCode.Unauthorized,
-                ExceptionErrors = new List<string>()
+                ExceptionErrors = new List<string>(),
+                Message = "Unauthorized"
 
             };
             status.ExceptionErrors.Add("Unauthorized");

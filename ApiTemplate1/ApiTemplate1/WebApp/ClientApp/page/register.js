@@ -103,6 +103,10 @@ function o() {
 				.then(d => {
 					console.log("here1");
 					console.log(d);
+					if (d.statusCode != undefined && d.statusCode != 200) {
+						at.errorModal.show = 1;
+						$.msgc.send("show error modal", d.message);
+					}
 				})
 				.catch(s => {
 					console.log("here2");

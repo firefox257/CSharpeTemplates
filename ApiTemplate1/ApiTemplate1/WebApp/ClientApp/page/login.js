@@ -62,14 +62,6 @@ var html = `
 		</table>
 	</span>
 </c>
-<c tt="modal" to="errorModel">
-	<table>
-		<tr>
-			<td align="center" class="loginError" t="errorModalMsg:innerHTML">
-			</td>
-		</tr>
-	</table>
-</c>
 `;
 
 function o() {
@@ -93,10 +85,11 @@ function o() {
 
 			Login(at.verify)
 				.then(d => {
-					console.log("here1");
-					console.log(d);
-					if (d.IsSuccess != undefined && !d.IsSuccess) {
-						
+					if (d.statusCode != undefined && !d.statusCode != 200) {
+						$.msgc.send("show error modal", d.message);
+					}
+					else {
+						$.msgc.send("show main");
 					}
 				})
 				.catch(s => {
@@ -107,8 +100,6 @@ function o() {
 		gotoRegister() {
 			$.msgc.send("show register");
 		},
-		errorModal: undefined,
-		errorModalMsg: "",
 		beforeinit() {
 			$.msgc.subscribe("show login", function () {
 				at.attr.show = 1;

@@ -4,8 +4,10 @@ var html = `
 
 <c tt="register" to="registerPage"></c>
 <c tt="login" to="loginPage"></c>
+<c tt="main" to="mainPage"></c>
 
 <c tt="modals"></c>
+<c tt="errorModal"></c>
 `;
 
 function o() {
@@ -17,10 +19,11 @@ function o() {
 		},
 		registerPage: undefined,
 		loginPage: undefined,
+		mainPage: undefined,
 		init()
 		{
 			
-			at.registerPage.show = 1;
+			at.loginPage.show = 1;
 
 		}
 	};

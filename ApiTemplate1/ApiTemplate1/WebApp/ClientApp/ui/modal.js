@@ -45,7 +45,6 @@ function o() {
 					at.display = "none";
 				}
 				else {
-					console.log("at here1");
 					at.display = "inline-block";
 				}
 			});

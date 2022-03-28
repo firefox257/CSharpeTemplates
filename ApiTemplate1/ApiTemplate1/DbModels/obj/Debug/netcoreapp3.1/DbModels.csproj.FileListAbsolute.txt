@@ -20,7 +20,6 @@ C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\DbModels\obj\Debu
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\DbModels\bin\Debug\netcoreapp3.1\DbModels.deps.json
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\DbModels\bin\Debug\netcoreapp3.1\DbModels.dll
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\DbModels\bin\Debug\netcoreapp3.1\DbModels.pdb
-C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\DbModels\obj\Debug\netcoreapp3.1\DbModels.csproj.AssemblyReference.cache
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\DbModels\obj\Debug\netcoreapp3.1\DbModels.GeneratedMSBuildEditorConfig.editorconfig
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\DbModels\obj\Debug\netcoreapp3.1\DbModels.AssemblyInfoInputs.cache
 C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\DbModels\obj\Debug\netcoreapp3.1\DbModels.AssemblyInfo.cs
