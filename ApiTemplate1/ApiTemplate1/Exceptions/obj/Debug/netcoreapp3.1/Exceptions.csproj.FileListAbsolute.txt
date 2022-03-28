@@ -7,3 +7,13 @@ C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\Exceptions\obj\De
 C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
 C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
 C:\Users\Aaron\progs\csharptemplates\ApiTemplate1\ApiTemplate1\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.AssemblyReference.cache
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+C:\myprogs\take3\CSharpeTemplates\ApiTemplate1\ApiTemplate1\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
