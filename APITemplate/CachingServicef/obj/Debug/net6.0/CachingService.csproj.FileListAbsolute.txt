@@ -1,0 +1,15 @@
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\bin\Debug\net6.0\CachingService.deps.json
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\bin\Debug\net6.0\CachingService.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\bin\Debug\net6.0\CachingService.pdb
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\bin\Debug\net6.0\Configuration.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\bin\Debug\net6.0\Configuration.pdb
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\obj\Debug\net6.0\CachingService.csproj.AssemblyReference.cache
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\obj\Debug\net6.0\CachingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\obj\Debug\net6.0\CachingService.AssemblyInfoInputs.cache
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\obj\Debug\net6.0\CachingService.AssemblyInfo.cs
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\obj\Debug\net6.0\CachingService.csproj.CoreCompileInputs.cache
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\obj\Debug\net6.0\CachingService.csproj.CopyComplete
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\obj\Debug\net6.0\CachingService.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\obj\Debug\net6.0\refint\CachingService.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\obj\Debug\net6.0\CachingService.pdb
+C:\Users\firef\progs\git\csharptemplates\APITemplate\CachingServicef\obj\Debug\net6.0\ref\CachingService.dll

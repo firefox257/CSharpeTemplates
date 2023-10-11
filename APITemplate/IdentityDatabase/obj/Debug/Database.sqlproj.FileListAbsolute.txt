@@ -1,0 +1,6 @@
+C:\Users\firef\progs\git\csharptemplates\APITemplate\IdentityDatabase\bin\Debug\Database.dacpac
+C:\Users\firef\progs\git\csharptemplates\APITemplate\IdentityDatabase\bin\Debug\IdentityDatabase.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\IdentityDatabase\bin\Debug\IdentityDatabase.pdb
+C:\Users\firef\progs\git\csharptemplates\APITemplate\IdentityDatabase\obj\Debug\Database.sqlproj.AssemblyReference.cache
+C:\Users\firef\progs\git\csharptemplates\APITemplate\IdentityDatabase\obj\Debug\IdentityDatabase.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\IdentityDatabase\obj\Debug\IdentityDatabase.pdb

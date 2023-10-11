@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PhfFy6fMsfbQc0lb6az6e9H7mnoPsE/GRhI4e+y7XlvqW75olD/fNy1C85CiTnqZXiWkNUUh4YQ0LJw13I3Bww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\firef\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

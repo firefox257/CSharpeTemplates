@@ -1,0 +1,15 @@
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\bin\Debug\net6.0\AuthHelper.deps.json
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\bin\Debug\net6.0\AuthHelper.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\bin\Debug\net6.0\AuthHelper.pdb
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\bin\Debug\net6.0\Configuration.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\bin\Debug\net6.0\Configuration.pdb
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\obj\Debug\net6.0\AuthHelper.csproj.AssemblyReference.cache
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\obj\Debug\net6.0\AuthHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\obj\Debug\net6.0\AuthHelper.AssemblyInfoInputs.cache
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\obj\Debug\net6.0\AuthHelper.AssemblyInfo.cs
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\obj\Debug\net6.0\AuthHelper.csproj.CoreCompileInputs.cache
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\obj\Debug\net6.0\AuthHelper.csproj.CopyComplete
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\obj\Debug\net6.0\AuthHelper.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\obj\Debug\net6.0\refint\AuthHelper.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\obj\Debug\net6.0\AuthHelper.pdb
+C:\Users\firef\progs\git\csharptemplates\APITemplate\AuthHelper\obj\Debug\net6.0\ref\AuthHelper.dll

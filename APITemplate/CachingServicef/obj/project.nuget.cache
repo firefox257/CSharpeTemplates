@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "khG/9QTX4qOrTHUrNsAmIVkvAS7dGfucwK6qnzmVEDpUvuw/xoBTt63uCyerq4O87eycdw1f4fk/4iTuP5gycQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\CachingServicef\\CachingService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\firef\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

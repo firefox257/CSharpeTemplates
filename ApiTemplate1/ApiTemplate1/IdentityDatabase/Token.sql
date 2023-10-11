@@ -1,7 +1,0 @@
-﻿CREATE TABLE [dbo].[Token]
-(
-	[Id] INT IDENTITY NOT NULL PRIMARY KEY, 
-    [Identity] UNIQUEIDENTIFIER NOT NULL, 
-    [TimeStamp] DATETIME NOT NULL, 
-    [UserId] INT NOT NULL
-)

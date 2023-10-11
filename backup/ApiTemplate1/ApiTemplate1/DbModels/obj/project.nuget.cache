@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bffBuxhz2RWoQ+/ObQY+T4INfNmDJlpG/UG8q73m0LWVOhsd4p8ePCEhkL9DXs4LBQhKB/h0XVOn4V34yYEHLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\ApiTemplate1\\ApiTemplate1\\DbModels\\DbModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\firef\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

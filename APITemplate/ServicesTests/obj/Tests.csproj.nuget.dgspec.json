@@ -1,0 +1,849 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ServicesTests\\Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\APITemplate\\APITemplate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\APITemplate\\APITemplate.csproj",
+        "projectName": "APITemplate",
+        "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\APITemplate\\APITemplate.csproj",
+        "packagesPath": "C:\\Users\\firef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\APITemplate\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\firef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ExceptionsLibrary\\ExceptionsLibrary.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ExceptionsLibrary\\ExceptionsLibrary.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\GlobalTypes.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\GlobalTypes.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\PingService\\PingService.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\PingService\\PingService.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\TokenService\\TokenService.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\TokenService\\TokenService.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\UserService\\UserService.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\UserService\\UserService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\AuthHelper\\AuthHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\AuthHelper\\AuthHelper.csproj",
+        "projectName": "AuthHelper",
+        "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\AuthHelper\\AuthHelper.csproj",
+        "packagesPath": "C:\\Users\\firef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\AuthHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\firef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.122, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\CachingServicef\\CachingService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\CachingServicef\\CachingService.csproj",
+        "projectName": "CachingService",
+        "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\CachingServicef\\CachingService.csproj",
+        "packagesPath": "C:\\Users\\firef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\CachingServicef\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\firef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.122, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj",
+        "projectName": "Configuration",
+        "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj",
+        "packagesPath": "C:\\Users\\firef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\firef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ExceptionsLibrary\\ExceptionsLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ExceptionsLibrary\\ExceptionsLibrary.csproj",
+        "projectName": "ExceptionsLibrary",
+        "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ExceptionsLibrary\\ExceptionsLibrary.csproj",
+        "packagesPath": "C:\\Users\\firef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ExceptionsLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\firef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\GlobalTypes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\GlobalTypes.csproj",
+        "projectName": "GlobalTypes",
+        "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\GlobalTypes.csproj",
+        "packagesPath": "C:\\Users\\firef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\firef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\MainDBContext\\MainDBContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\MainDBContext\\MainDBContext.csproj",
+        "projectName": "MainDBContext",
+        "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\MainDBContext\\MainDBContext.csproj",
+        "packagesPath": "C:\\Users\\firef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\MainDBContext\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\firef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\GlobalTypes.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\GlobalTypes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\PingService\\PingService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\PingService\\PingService.csproj",
+        "projectName": "PingService",
+        "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\PingService\\PingService.csproj",
+        "packagesPath": "C:\\Users\\firef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\PingService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\firef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ExceptionsLibrary\\ExceptionsLibrary.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ExceptionsLibrary\\ExceptionsLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ServicesTests\\Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ServicesTests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ServicesTests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\firef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ServicesTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\firef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\APITemplate\\APITemplate.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\APITemplate\\APITemplate.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\AuthHelper\\AuthHelper.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\AuthHelper\\AuthHelper.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\CachingServicef\\CachingService.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\CachingServicef\\CachingService.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ExceptionsLibrary\\ExceptionsLibrary.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ExceptionsLibrary\\ExceptionsLibrary.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\GlobalTypes.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\GlobalTypes.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\MainDBContext\\MainDBContext.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\MainDBContext\\MainDBContext.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\PingService\\PingService.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\PingService\\PingService.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\TokenService\\TokenService.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\TokenService\\TokenService.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\UserService\\UserService.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\UserService\\UserService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.2, )"
+            },
+            "Moq.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\TokenService\\TokenService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\TokenService\\TokenService.csproj",
+        "projectName": "TokenService",
+        "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\TokenService\\TokenService.csproj",
+        "packagesPath": "C:\\Users\\firef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\TokenService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\firef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\CachingServicef\\CachingService.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\CachingServicef\\CachingService.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\GlobalTypes.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\GlobalTypes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\UserService\\UserService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\UserService\\UserService.csproj",
+        "projectName": "UserService",
+        "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\UserService\\UserService.csproj",
+        "packagesPath": "C:\\Users\\firef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\UserService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\firef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\AuthHelper\\AuthHelper.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\AuthHelper\\AuthHelper.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\Configuration\\Configuration.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ExceptionsLibrary\\ExceptionsLibrary.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\ExceptionsLibrary\\ExceptionsLibrary.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\GlobalTypes.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\GlobalTypes\\GlobalTypes.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\MainDBContext\\MainDBContext.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\MainDBContext\\MainDBContext.csproj"
+              },
+              "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\TokenService\\TokenService.csproj": {
+                "projectPath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\TokenService\\TokenService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

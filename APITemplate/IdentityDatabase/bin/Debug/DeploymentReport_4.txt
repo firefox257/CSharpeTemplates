@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[UserEntity]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[UserEntity].[Block] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[UserEntity] (Default Constraint)
+       unnamed constraint on [dbo].[UserEntity] (Default Constraint)
+       unnamed constraint on [dbo].[UserEntity] (Default Constraint)
+       unnamed constraint on [dbo].[UserEntity] (Default Constraint)
+       unnamed constraint on [dbo].[UserEntity] (Default Constraint)
+       unnamed constraint on [dbo].[UserEntity] (Default Constraint)
+     Recreate table
+       [dbo].[UserEntity] (Table)
+
+** Supporting actions
+
+The column [dbo].[UserEntity].[Block] is being dropped, data loss could occur.
+

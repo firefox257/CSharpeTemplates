@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AuthHelper\AuthHelper.csproj" />
+    <ProjectReference Include="..\Configuration\Configuration.csproj" />
+    <ProjectReference Include="..\ExceptionsLibrary\ExceptionsLibrary.csproj" />
+    <ProjectReference Include="..\GlobalTypes\GlobalTypes.csproj" />
+    <ProjectReference Include="..\MainDBContext\MainDBContext.csproj" />
+    <ProjectReference Include="..\TokenService\TokenService.csproj" />
+  </ItemGroup>
+
+</Project>

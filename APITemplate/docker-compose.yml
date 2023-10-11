@@ -1,0 +1,27 @@
+version: '3.7'
+
+volumes:
+  data-volume:
+
+services:
+  redis:
+    image: redis
+    restart: always
+    ports:
+     - 6379:6379
+    command: redis-server --save 20 1 --loglevel warning
+    volumes:
+     - .\Api\Data\redis:/data
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: mssql
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_PID=Express 
+      - SA_PASSWORD=P@ssw3rd # 
+    ports:
+      - 1433:1433
+    volumes:
+      - .\Api\Data\mssql:/var/opt/mssql/data
+

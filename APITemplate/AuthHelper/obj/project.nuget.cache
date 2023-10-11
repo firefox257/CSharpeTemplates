@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2WV9i0FEHeA0HKl/5FPnv/y3teclipXnrrymHsYYRmZSqyJhtnd0daUb//e5MrdPcsxHgyE0RaW98fRHMa0hjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\AuthHelper\\AuthHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\firef\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.11\\microsoft.aspnetcore.cryptography.internal.7.0.11.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.11\\microsoft.aspnetcore.cryptography.keyderivation.7.0.11.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dg/QBkl/UvsyUJ3tBkoAvJ6z5WQcgay7YXsCSNhpHaRQQnXxK0oXzKF8Xqg36GNALLxwAem2Y1XsckbfKGlFaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\firef\\progs\\git\\CSharpeTemplates\\APITemplate\\TokenService\\TokenService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\firef\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\firef\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

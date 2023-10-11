@@ -1,0 +1,12 @@
+C:\Users\firef\progs\git\csharptemplates\APITemplate\Configuration\bin\Debug\net6.0\Configuration.deps.json
+C:\Users\firef\progs\git\csharptemplates\APITemplate\Configuration\bin\Debug\net6.0\Configuration.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\Configuration\bin\Debug\net6.0\Configuration.pdb
+C:\Users\firef\progs\git\csharptemplates\APITemplate\Configuration\obj\Debug\net6.0\Configuration.csproj.AssemblyReference.cache
+C:\Users\firef\progs\git\csharptemplates\APITemplate\Configuration\obj\Debug\net6.0\Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firef\progs\git\csharptemplates\APITemplate\Configuration\obj\Debug\net6.0\Configuration.AssemblyInfoInputs.cache
+C:\Users\firef\progs\git\csharptemplates\APITemplate\Configuration\obj\Debug\net6.0\Configuration.AssemblyInfo.cs
+C:\Users\firef\progs\git\csharptemplates\APITemplate\Configuration\obj\Debug\net6.0\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\firef\progs\git\csharptemplates\APITemplate\Configuration\obj\Debug\net6.0\Configuration.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\Configuration\obj\Debug\net6.0\refint\Configuration.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\Configuration\obj\Debug\net6.0\Configuration.pdb
+C:\Users\firef\progs\git\csharptemplates\APITemplate\Configuration\obj\Debug\net6.0\ref\Configuration.dll

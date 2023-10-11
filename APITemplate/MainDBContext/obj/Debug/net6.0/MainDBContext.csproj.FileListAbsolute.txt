@@ -1,0 +1,17 @@
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\bin\Debug\net6.0\MainDBContext.deps.json
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\bin\Debug\net6.0\MainDBContext.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\bin\Debug\net6.0\MainDBContext.pdb
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\bin\Debug\net6.0\Configuration.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\bin\Debug\net6.0\GlobalTypes.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\bin\Debug\net6.0\Configuration.pdb
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\bin\Debug\net6.0\GlobalTypes.pdb
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\obj\Debug\net6.0\MainDBContext.csproj.AssemblyReference.cache
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\obj\Debug\net6.0\MainDBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\obj\Debug\net6.0\MainDBContext.AssemblyInfoInputs.cache
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\obj\Debug\net6.0\MainDBContext.AssemblyInfo.cs
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\obj\Debug\net6.0\MainDBContext.csproj.CoreCompileInputs.cache
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\obj\Debug\net6.0\MainDBContext.csproj.CopyComplete
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\obj\Debug\net6.0\MainDBContext.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\obj\Debug\net6.0\refint\MainDBContext.dll
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\obj\Debug\net6.0\MainDBContext.pdb
+C:\Users\firef\progs\git\csharptemplates\APITemplate\MainDBContext\obj\Debug\net6.0\ref\MainDBContext.dll
